@@ -1,1 +1,1 @@
-# -eclecticofblue.github.io
+# eclecticofblue.github.io
